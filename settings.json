@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "YO AM JUST AN AFK BOT OKAY NO MOTHER FUCKERS TOUCH ME",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "vtcolany.aternos.me",
+    "port": 27279,
     "version": "",
     "try-creative": false
   },
@@ -69,8 +69,9 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
+  
   },
   "discord": {
     "enabled": false,
