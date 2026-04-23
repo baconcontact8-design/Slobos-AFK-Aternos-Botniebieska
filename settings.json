@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Niebiskaszkola.aternos.me:51003",
+    "ip": "Niebiskaszkola.aternos.me",
     "port": 51003,
     "version": "",
     "try-creative": false
