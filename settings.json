@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Niebiskaszkola.aternos.me:51003",
+    "port": 51003,
     "version": "",
     "try-creative": false
   },
